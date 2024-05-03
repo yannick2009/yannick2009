@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hi, I'm Yannick KOUAKOU! 👋
 
-<!--
-**yannick2009/yannick2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After graduating with a bachelor's degree in Web Technologies and Digital Images from the École Supérieure Africaine des Technologies de l'Information et de la Communication (ESATIC), I'm currently in my first year of a professional Master's degree at EPITECH Paris. My main objective is to further develop my skills in information technology, with a particular focus on artificial intelligence.
 
-Here are some ideas to get you started:
+![My Stats](https://github-readme-stats.vercel.app/api?username=yannick2009&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing my Master's in Computer Science at EPITECH Paris.
+- 🌐 Proud owner of [Critik-V](https://github.com/Critik-V).
+- 🎹 beatmaker in my spare time
+- ⌨️ Contributing to open-source projects
+
+## Tech Stack
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,python,html,css)](https://skillicons.dev)
+### Server side development
+[![My Skills](https://skillicons.dev/icons?i=nodejs,bun,deno,express,nest,elysia)](https://skillicons.dev)
+### client side development
+[![My Skills](https://skillicons.dev/icons?i=vite,react,vue,pug,markdown,sass)](https://skillicons.dev)
+### Databases & ORM
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,redis,supabase,firebase,prisma)](https://skillicons.dev)
+### DevOps & Cloud
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,ansible,githubactions,aws,googlecloud,azure)](https://skillicons.dev)
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,npm,pnpm,vitest,postman,vscode,figma)](https://skillicons.dev)
+
+
+## 🏆 Achievements
+
+- 🌟 Best Entrepreneur 2022 ESATIC
+- 🌟 3rd prize at the Young Innovators 2022 competition organised by RET-ISTC & the Ivory Coast Post Office.
+
+
+## 📬 Get in Touch
+
+- Connect with me on [Twitter](https://twitter.com/home?lang=fr)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/yannick-k-946970200/)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
