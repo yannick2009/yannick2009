@@ -13,25 +13,12 @@ After graduating with a bachelor's degree in Web Technologies and Digital Images
 
 ## Tech Stack
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=go,js,ts,python,html,css)](https://skillicons.dev)
-### Server side development
-[![My Skills](https://skillicons.dev/icons?i=nodejs,bun,deno,express,nest,elysia)](https://skillicons.dev)
-### client side development
-[![My Skills](https://skillicons.dev/icons?i=vite,react,vue,pug,markdown,sass)](https://skillicons.dev)
-### Databases & ORM
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,redis,supabase,firebase,prisma)](https://skillicons.dev)
-### DevOps & Cloud
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,ansible,githubactions,aws,googlecloud,azure)](https://skillicons.dev)
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,npm,pnpm,vitest,postman,vscode,figma)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,python,html,css,nodejs,bun,deno,express,nest,elysia,vite,react,vue,pug,markdown,sass,postgresql,mongodb,sqlite,redis,supabase,firebase,prisma,docker,nginx,ansible,githubactions,aws,googlecloud,azure,git,github,npm,pnpm,vitest,postman,vscode,figma,ai,ps)](https://skillicons.dev)
 
 ## 🏆 Achievements
 
 - 🌟 Best Entrepreneur 2022 ESATIC
 - 🌟 3rd prize at the Young Innovators 2022 competition organised by RET-ISTC & the Ivory Coast Post Office.
-
 
 ## 📬 Get in Touch
 
