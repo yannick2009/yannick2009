@@ -13,7 +13,7 @@ After graduating with a bachelor's degree in Web Technologies and Digital Images
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=go,js,ts,python,html,css,nodejs,bun,deno,express,nest,elysia,vite,react,solidjs,vue,pug,markdown,sass,postgresql,mongodb,sqlite,redis,supabase,firebase,prisma,docker,nginx,ansible,githubactions,aws,googlecloud,azure,git,github,npm,pnpm,vitest,postman,vscode,figma,ai,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,python,html,css,nodejs,bun,deno,express,nest,elysia,vite,react,solidjs,vue,pug,markdown,sass,tailwindcss,postgresql,mongodb,sqlite,redis,supabase,firebase,prisma,docker,nginx,ansible,githubactions,aws,googlecloud,azure,git,github,npm,pnpm,vitest,postman,vscode,figma,ai,ps)](https://skillicons.dev)
 
 ## 🏆 Achievements
 
