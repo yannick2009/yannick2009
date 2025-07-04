@@ -1,6 +1,6 @@
 # Hi, I'm Yannick KOUAKOU! 👋
 
-After graduating with a bachelor's degree in Web Technologies and Digital Images from the École Supérieure Africaine des Technologies de l'Information et de la Communication (ESATIC), I'm currently in my first year of a professional Master's degree at EPITECH Paris. My main objective is to further develop my skills in information technology, with a particular focus on artificial intelligence.
+I’m a passionate and curious software developer currently pursuing a Master's degree in Software Architecture at EPITECH Paris. I’m driven by a deep interest in how systems work under the hood, with a particular focus on system design, data structures, and building clean, efficient solutions. Always eager to learn and grow, I enjoy turning complex problems into elegant code and exploring new technologies that help me improve as a developer and thinker.
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=yannick2009&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -13,7 +13,7 @@ After graduating with a bachelor's degree in Web Technologies and Digital Images
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=go,js,ts,python,html,css,nodejs,bun,deno,express,nest,elysia,vite,react,solidjs,vue,pug,markdown,sass,tailwindcss,postgresql,mongodb,sqlite,redis,supabase,firebase,prisma,docker,nix,nginx,ansible,githubactions,aws,googlecloud,azure,git,github,npm,pnpm,vitest,postman,vscode,figma,ai,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,python,rust,nodejs,deno,react,solidjs,sass,docker,nix,git,figma)](https://skillicons.dev)
 
 ## 🏆 Achievements
 
